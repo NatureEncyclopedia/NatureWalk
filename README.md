@@ -1,5 +1,15 @@
 # NATURE WALK
 
+### App Walkthough GIF for SPRINT 1
+
+Completed user stories within GIF
+- [x] User can sign up
+- [x] User can login / log out
+Completed Issues that werent user stories
+- [x] Setup Parse Server
+
+<img src="https://i.imgur.com/nZBjXta.gif" width=250><br>
+
 Table of Contents
 
 Overview
