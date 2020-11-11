@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NatureWalk</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">yT0V0ipQOElcKw6z1DpWKOUvscmQSpvz9JS7LufR</string>
+    <string name="back4app_client_key">87cDdY3GoaEJNMii2nDJAESixIcWGEasZeBJfRcw</string>
+    <color name="Black">#000000</color>
+</resources>
