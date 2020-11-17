@@ -9,6 +9,7 @@ Completed Issues that werent user stories
 - [x] Setup Parse Server
 
 <img src="https://i.imgur.com/nZBjXta.gif" width=250><br>
+<img src="https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/NatureEncyclopedia.gif" width=250><br>
 
 Table of Contents
 
